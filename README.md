@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @superxu0423
+- 👋 Hi, I’m SuperXu
 - 👀 I’m interested in computer
 - 🌱 I’m currently learning Python
 - 📫 my email: 1028761352@qq.com
